@@ -1,5 +1,6 @@
 # --- Custom Gitignore --- #
-
+native/node_modules/
+native/node_modules/*
 
 
 # --- Common Gitignore --- #

@@ -1,5 +1,17 @@
 {
   "expo": {
-    "sdkVersion": "20.0.0"
-  }
+    "sdkVersion": "20.0.0",
+    "ios": {
+      "bundleIdentifier": "com.techlx.expogoogle"
+    },
+    "android": {
+      "package": "com.techlx.expogoogle",
+      "config": {
+        "googleSignIn": {
+          "apiKey": "AIzaSyArr7iqaZIPyXGaUkovrbj3tyMGdpXiolU",
+          "certificateHash": "19FAC0D2C4A38596B599996DAF70EB7D0D88BDE1",
+        }
+      }
+    },
+  },
 }
