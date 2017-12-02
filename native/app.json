@@ -13,5 +13,13 @@
         }
       }
     },
+    "ios": {
+      "bundleIdentifier": "com.techlx.expogoogle",
+      "config": {
+        "googleSignIn": {
+          "reservedClientId": "944363662100-8gg6i4c3lmleihh4japdf09r4a6f6rie.apps.googleusercontent.com",
+        }
+      }
+    },
   },
 }

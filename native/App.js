@@ -8,6 +8,8 @@ async function signInWithGoogleAsync() {
       androidClientId: '944363662100-vtptmm9aemekbkeijmv88i12n4n57dek.apps.googleusercontent.com',
       androidStandaloneAppClientId: '944363662100-18mclfjmarm7ssnqo04mh1qpk72mqoi0.apps.googleusercontent.com',
       scopes: ['profile', 'email'],
+      iosClientId: '278174296214-ke7cju4vudf9dieasd790vsfihge4t2c.apps.googleusercontent.com',
+      iosStandaloneAppClientId: '944363662100-8gg6i4c3lmleihh4japdf09r4a6f6rie.apps.googleusercontent.com',
     });
 
     if (result.type === 'success') {
