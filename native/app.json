@@ -1,6 +1,6 @@
 {
   "expo": {
-    "sdkVersion": "20.0.0",
+    "sdkVersion": "23.0.0",
     "ios": {
       "bundleIdentifier": "com.techlx.expogoogle"
     },
@@ -10,16 +10,16 @@
         "googleSignIn": {
           "apiKey": "AIzaSyArr7iqaZIPyXGaUkovrbj3tyMGdpXiolU",
           "certificateHash": "19FAC0D2C4A38596B599996DAF70EB7D0D88BDE1",
-        }
-      }
+        },
+      },
     },
     "ios": {
       "bundleIdentifier": "com.techlx.expogoogle",
       "config": {
         "googleSignIn": {
           "reservedClientId": "944363662100-8gg6i4c3lmleihh4japdf09r4a6f6rie.apps.googleusercontent.com",
-        }
-      }
+        },
+      },
     },
   },
 }
